@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Superhero_Academy.Alien" Collapsed="true">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Alien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Superhero_Academy.Biological" Collapsed="true">
+    <Position X="2" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Biological.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Superhero_Academy.ClassicMagical" Collapsed="true">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClassicMagical.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Superhero_Academy.Enhanced" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enhanced.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Superhero_Academy.HeroClass" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAACAAAAAAAEAAEAAAAAABAAAAAAAA=</HashCode>
+      <FileName>HeroClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Superhero_Academy.Magical" Collapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Magical.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Superhero_Academy.Power" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Power.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Superhero_Academy.Program" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Superhero_Academy.Suit" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Suit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Superhero_Academy.Technological" Collapsed="true">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Technological.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Superhero_Academy.Trained" Collapsed="true">
+    <Position X="0.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Trained.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
